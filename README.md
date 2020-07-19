@@ -11,5 +11,5 @@ Author: **Viktor Kostadinov**
 
 This work is distributed under an MIT license. Code snippets for the creation of the GLWrapper class have been taken from the [MDN example repository](https://github.com/mdn/webgl-examples).
 
-### Compiling this project
-The source can be located inside `./src`. After installing all dev-dependencies, you can launch `npm run build` from the console to compile the project. The packed bundle will be inside `./dist`.
+### Contributing and code sources
+You may fork the code via [this repository](https://github.com/viktorpts/cagd-wrapper).
